@@ -1,0 +1,27 @@
+1) git status ---> check status
+2) git init ---> to convert our simple folder into git repository 
+3) git clone ---> We can copy code into our pc
+4) git diff --> see changes in our files
+5) git add ---> working directory(Where we edit files) to staging index (For commiting)
+6) git log ---> top/letest commit first then other commits
+7) git log -3 ---> letest three
+8) git log -p ---> actual changes
+9) git log --oneline ---> Hidden info like author,commit but show commit id and commit
+10) git lop --stat --> commits and show files also
+11) git show id ---> particular commit changes
+12) git add --> add files to track (If new files then track)
+13) git restore file_name --> reject commit
+14) git .ignore --> for ignore that type of file
+
+15) git branch --> currently branch
+16) git branch b_name --> new branch
+17) git checkout b_name ---> switch branch
+
+18) git merge ---> merge branches into master branch
+19) git branch -d b_name --> delete branch
+
+20) git commit --amend --> amned most recently cpmmoit
+21) git reset ---> reset commit
+22) git revert --> undo commit
+
+23) git commit -am ---> commit and add both

@@ -1,0 +1,56 @@
+p{
+    color: aqua;
+    font-size: larger;
+    text-align: center;
+    margin: 0 auto;
+    height: 250px;
+    border: 10px;
+}
+
+.w1{
+    color: orange;
+}
+
+.w2{
+    color: blue;
+}
+
+.w3{
+    color: green;
+}
+
+.para{
+    background-color: antiquewhite;
+}
+
+.btn{
+    backface-visibility: hidden;
+    font-size: smaller;
+    width: fit-content;
+    color: brown;
+}
+
+.btn:hover{
+    color: yellow;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin: 0 auto;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 10;
+}
+
+#d1{
+    background-color: orange;
+    padding: 100px;
+}
+#d2{
+    background-color: white;
+}
+#d3{
+    background-color: green;
+}

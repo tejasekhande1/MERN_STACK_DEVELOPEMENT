@@ -1,0 +1,23 @@
+p{
+    position: relative;
+}
+
+div{
+    border: 1px solid black;
+    background-color: antiquewhite;
+    height: 150px;
+    width: 130px;
+    display: inline-block;
+}
+
+.box{
+    position: relative;
+    left: 15px;
+    top:100px
+}
+
+#b3{
+    position: fixed;
+    top: 150px;
+    left: 50px;
+}

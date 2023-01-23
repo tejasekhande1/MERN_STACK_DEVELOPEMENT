@@ -1,0 +1,35 @@
+.main{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    width: fit-content;
+    padding: 25;
+}
+.box{
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    font-size: smaller;
+    color: aliceblue;
+    box-sizing: border-box;
+    padding: 50;
+    text-shadow: 3px 3px 3px black;
+    box-shadow: 8px 8px 8px black;
+    border-radius: 17px;
+    overflow: scroll;
+    background-image: linear-gradient(to bottom right ,rgb(244, 156, 156),Blue);
+}
+
+.mydiv{
+    box-shadow: 8px 8px 8px black;
+    margin-left: 20;
+    border: 1px solid black;
+    height: 200px;
+    width: 150px;
+    font-size: smaller;
+    color: aliceblue;
+    box-sizing: border-box;
+    padding: 50;
+    background-image: radial-gradient(yellow,green);
+}
